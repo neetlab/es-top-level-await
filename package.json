@@ -1,0 +1,12 @@
+{
+  "name": "es-top-level-await",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/neetbox/es-top-level-await.git",
+  "author": "Neetshin <n33t5hin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^13.1.6",
+    "typescript": "^3.8.0-beta"
+  }
+}
